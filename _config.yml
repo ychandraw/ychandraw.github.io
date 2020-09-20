@@ -63,7 +63,7 @@ defaults:
       layout: single
       mathjax: true
       author_profile: true
-      class: wide
+      class: wide 
       title: " "
       title_separator: "|"
   # posts
